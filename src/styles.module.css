@@ -1,0 +1,10 @@
+/* add css module styles here (optional) */
+
+.treerow {
+  display: flex;
+  flex-direction: row;
+}
+
+.commonpadding {
+  margin-left: 10px;
+}
